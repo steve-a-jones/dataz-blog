@@ -1,5 +1,3 @@
 # Introduction
 
-Testing Testing...
-
-Hello...
+Hey Spe!
