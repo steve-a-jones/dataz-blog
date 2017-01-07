@@ -1,3 +1,3 @@
 # Introduction
 
-Hey Spe!
+Two Nerds.
