@@ -35,7 +35,7 @@ With no stream of steady income and a coffee addict on our team, we had our firs
 
 **Coffee Expenses after purchase[^1]: ~$160 per quarter**
 
-[^1]includes beans, milk, & cleaning supplies
+[^1]<small>includes beans, milk, & cleaning supplies</small>
 
 
 
