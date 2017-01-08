@@ -32,8 +32,10 @@ With no stream of steady income and a coffee addict on our team, we had our firs
 3. **Outcome**: We purchased a quality Gaggia espresso machine, accessories, and grinder for approximately **$450**. In simply **3** months time, we will have reached our payback period. 
 
 **Coffee Expenses before purchase: ~$500-700 per quarter**
-**Coffee Expenses after purchase*: ~$160 per quarter**
-<sub>\*includes beans, milk, & cleaning supplies</sub>
+
+**Coffee Expenses after purchase[^1]: ~$160 per quarter**
+
+[^1]includes beans, milk, & cleaning supplies
 
 
 
