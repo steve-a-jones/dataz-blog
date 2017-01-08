@@ -1,7 +1,7 @@
 # Summary
 
 * [Blog](README.md)
-* Projects
+* [Projects](projects.md)
 * Problems & Solutions
 * Technology & Tools
 * About Us
