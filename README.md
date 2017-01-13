@@ -26,12 +26,12 @@ With no stream of steady income and a coffee addict on our team, we had our firs
 
 2. **Analyze.** I dumped the data into Excel, cleaned it up a bit, and created a graph. I looked at a quarter of spending data and forecasted expenses for the next quarter assuming a purchase of an espresso machine & any required accessories. Summary shown below:
 
-	![Spending Data](http://dataz-blog-images.s3-website-us-east-1.amazonaws.com/CoffeeDataNovPost.png)
+	![Spending Data](http://dataz-blog-images.s3-website-us-east-1.amazonaws.com/CoffeeDataRevised.png)
 
 3. **Outcome**: We purchased a quality Gaggia espresso machine, accessories, and grinder for approximately **$480**. In simply **3** months time, we will have reached our payback period.
 
-***Coffee Expenses before purchase: $570 per quarter<br />***
-***Coffee Expenses after purchase: $160 per quarter***
+***Coffee Expenses before: $570 per quarter<br />***
+***Coffee Expenses after: $160 per quarter***
 
 ---
 
