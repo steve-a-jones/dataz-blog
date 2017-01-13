@@ -1,4 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+* [Blog](README.md)
+* [Projects](projects.md)
+* Problems & Solutions
+* Technology & Tools
+* About Us
 
