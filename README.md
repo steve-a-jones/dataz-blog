@@ -7,6 +7,7 @@ As time rushes past us, we sometimes forget. We forget what our goals are. We fo
 For us, 2016 was about remembering those things. Our goals were to learn new skills, be more active, and live somewhere with better weather. Looking back, we did just that.
 
 A glimpse of our 2016 Achievements:
+
 1. Watched 300+ hours of Calculus I-III lectures and solved 100+ problems in 4 weeks
 2. Read and completed problems in a 400-page Linear Algebra book in just 4 weeks
 3. Studied, coded, and implemented 18+ useful algorithms (i.e. merge sort, shortest path, etc.) in 5 weeks
@@ -37,8 +38,9 @@ With no stream of steady income and a coffee addict on our team, we had our firs
 
 3. **Outcome**: We purchased a quality Gaggia espresso machine, accessories, and grinder for approximately **$480**. In simply **3** months time, we will have reached our payback period.
 
-***Coffee Expenses before: $570 per quarter<br />***
+***Coffee Expenses before: $570 per quarter***<br />
 ***Coffee Expenses after: $160 per quarter***
+
 ---
 
 ###Our Story & Vision <br />October 26, 2016
