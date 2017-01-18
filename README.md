@@ -7,7 +7,9 @@ As time rushes past us, we sometimes forget. We forget what our goals are. We fo
 For us, 2016 was about remembering those things. Our goals were to learn new skills, be more active, and live somewhere with better weather. Looking back, we did just that.
 
 A glimpse of our 2016 Achievements:
-
+    <head>
+        <link rel=StyleSheet href="http://dataz-blog.s3-website-us-east-1.amazonaws.com/css/decPost.css">
+    </head>
 <div class="image">
             <img src="http://dataz-blog-images.s3-website-us-east-1.amazonaws.com/DecPostPano.png" class="bottom" />
             <div class="top">
@@ -28,7 +30,7 @@ With no stream of steady income and a coffee addict on our team, we had our firs
 
 2. **Analyze.** I dumped the data into Excel, cleaned it up a bit, and created a graph. I looked at a quarter of spending data and forecasted expenses for the next quarter assuming a purchase of an espresso machine & any required accessories. Summary shown below:
 
-	![Spending Data](http://dataz-blog-images.s3-website-us-east-1.amazonaws.com/CoffeeDataRevised.png)
+	![Spending Data](http://dataz-blog.s3-website-us-east-1.amazonaws.com/images/CoffeeDataRevised.png)
 
 3. **Outcome**: We purchased a quality Gaggia espresso machine, accessories, and grinder for approximately **$480**. In simply **3** months time, we will have reached our payback period.
 
