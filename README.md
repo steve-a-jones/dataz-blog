@@ -8,22 +8,23 @@ For us, 2016 was about remembering those things. Our goals were to learn new ski
 
 A glimpse of our 2016 Achievements:
 
-1. Watched 300+ hours of Calculus I-III lectures and solved 100+ problems in 4 weeks
-2. Read and completed problems in a 400-page Linear Algebra book in just 4 weeks
-3. Studied, coded, and implemented 18+ useful algorithms (i.e. merge sort, shortest path, etc.) in 5 weeks
-4. The non-programmer of the group learned JavaScript(JS)
-5. Grew some of our own food in both California and Hawaii
-6. Successfully completed several 30 day challenges (do something 30 days in a row to create a habit)
-7. Moved out of NYC and lived in both California and Hawaii
-8. Became our own baristas; started making our own lattes
-9. Composed a complete song on guitar
-10. Finished several fictional books
-11. In just 1 month, we each walked/ran 159 miles and climbed 790 floors. That's over 5 miles and 25 floors/day.
-12. Learned to tread water for the first time (one of us cannot swim)
-13. Explored nature
-14. Cook several new recipes
-15. Began working on a business idea
-16. Started a blog
+<html>
+    <head>
+        <link rel=StyleSheet href="decPost.css">
+    </head>
+    <body>
+        <div class="image">
+            <img src="http://dataz-blog-images.s3-website-us-east-1.amazonaws.com/DecPostPano.png" class="bottom" />
+            <div class="top">
+                <div class="text">
+                    <li>Completed several 30 day challenges</li>
+                    <li>In one month, we each walked/ran 159 miles and climbed 790 floors.</li>
+                    <li>Explored nature</li>
+                </div>
+            </div>
+        </div>
+</body>
+</html>
 
 ---
 ###Data Behind Our Coffee Addiction <br />November 15, 2016
