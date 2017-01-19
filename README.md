@@ -1,10 +1,8 @@
 #Two Nerds, Much Dataz.
 
 ---
-###16 Achievements of 2016 <br />December 31, 2016
+###Achievements of 2016 <br />December 31, 2016
 As time rushes past us, we sometimes forget. We forget what our goals are. We forget to look back on what we have accomplished. We forget to invest in ourselves.
-
-For us, 2016 was about remembering those things. Our goals were to learn new skills, be more active, and live somewhere with better weather. Looking back, we did just that.
 
 A glimpse of our 2016 Achievements:
     <head>
@@ -16,10 +14,12 @@ A glimpse of our 2016 Achievements:
                 <div class="text">
                     <li>Completed several 30 day challenges</li>
                     <li>In one month, we each walked/ran 159 miles and climbed 790 floors.</li>
-                    <li>Explored nature</li>
+                    <li>Explored nature around us through hiking</li>
                 </div>
             </div>
         </div>
+
+For us, 2016 was about remembering those things. Our goals were to learn new skills, be more active, and live somewhere with better weather. Looking back, we did just that.
 
 ---
 ###Data Behind Our Coffee Addiction <br />November 15, 2016
