@@ -17,7 +17,7 @@ A glimpse of our 2016 Achievements:
                     <li>Explored nature around us through hiking</li>
                 </div>
             </div>
-        </div>
+        </div><br />
 
 For us, 2016 was about remembering those things. Our goals were to learn new skills, be more active, and live somewhere with better weather. Looking back, we did just that.
 
