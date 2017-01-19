@@ -12,7 +12,7 @@ A glimpse of our 2016 Achievements:
             <img src="http://dataz-blog-images.s3-website-us-east-1.amazonaws.com/DecPostPano.png" class="bottom" />
             <div class="top">
                 <div class="text">
-                    <li>Completed several 30 day challenges</li>
+                    <li>Completed several 30 day workout challenges</li>
                     <li>In one month, we each walked/ran 159 miles and climbed 790 floors.</li>
                     <li>Explored nature around us through hiking</li>
                 </div>
